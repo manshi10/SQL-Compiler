@@ -1,1 +1,0 @@
-SELECT id FROM TABLE WHERE a>12 group by name having b<12 order by num;
